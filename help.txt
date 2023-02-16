@@ -1,0 +1,2 @@
+<body> -> Tag inicial ou de fechamento
+<br>, <a> -> Tags especias: abertas ou vazias: não possuem fechamento.
